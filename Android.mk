@@ -25,3 +25,4 @@ ifneq ($(filter msm% apq%,$(TARGET_BOARD_PLATFORM)),)
 endif
 endif
 endif
+#
